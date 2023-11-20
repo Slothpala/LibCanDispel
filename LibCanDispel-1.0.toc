@@ -1,0 +1,5 @@
+## Interface: 100200
+## Title: Lib: LibCanDispel
+
+LibStub\LibStub.lua
+LibCanDispel-1.0.lua
