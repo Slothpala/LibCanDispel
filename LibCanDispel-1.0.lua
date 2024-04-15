@@ -115,7 +115,7 @@ local dispelAbilities = {
         if IsSpellKnownOrOverridesKnown(365585) then --Expunge 
             DispelCapabilities.Poison = true
         end
-        if IsSpellKnownOrOverridesKnownOrOverridesKnown(360823) then --Naturalize 
+        if IsSpellKnownOrOverridesKnown(360823) then --Naturalize 
             DispelCapabilities.Magic = true
             DispelCapabilities.Poison = true
         end
