@@ -9,7 +9,7 @@ end
 local DispelCapabilities = {}
 lib.DispelCapabilities = DispelCapabilities
 
-function lib:CanDispel(dispelName)
+function lib.CanDispel(dispelName)
     return DispelCapabilities[dispelName]
 end
 
